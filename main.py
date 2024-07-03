@@ -2,6 +2,7 @@ import os
 import json
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import Qt
+
 class manager():
     def __init__(self):
         self.json_list = []
